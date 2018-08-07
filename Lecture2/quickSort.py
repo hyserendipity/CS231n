@@ -15,3 +15,4 @@ def quickSort(arr):
 
 if __name__ == "__main__":
     print(quickSort([4,2,3,1]))
+    print(quickSort([-23,34,45,1]))
